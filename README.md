@@ -5,7 +5,7 @@ ToDo:
 - design mysql db
 - Write main script.
 - Module system for different sources of meta.
-- Module for myshows.
+- Module for tvdb.
 - multiple users lists.
 - basic login system (md5).
 - Show's info page with pictures.
